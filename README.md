@@ -39,7 +39,7 @@ The dataset was in a tabular (CSV) format and was gotten from a research studies
 
 
 ## 📍 Notebook
-#### This Jupyter notebook containing some exploratory analysis, model training and evaluation can be found [Here](https://github.com/Ajisco/Sami-Depression/blob/master/Jupyter_Notebook.ipynb) <br><br><br>
+#### This Jupyter notebook containing some exploratory analysis, model training and evaluation can be found [Here](https://github.com/Ajisco/Ad-Click/blob/master/Jupyter%20Notebook.ipynb) <br><br><br>
 
 ## 📍 App Features
 1. Has a section to fill form to collect data of the user.
