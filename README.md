@@ -41,12 +41,9 @@ The dataset was in a tabular (CSV) format and was gotten from a research studies
 ## 📍 Notebook
 #### This Jupyter notebook containing some exploratory analysis, model training and evaluation can be found [Here](https://github.com/Ajisco/Sami-Depression/blob/master/Jupyter_Notebook.ipynb) <br><br><br>
 
-## 📍 App FEATURES 
-1. Has a section to fill form of syptoms and data.
-2. Machine learning diagnoses the depression and classifies it.
-3. There is an option to pick a song genre of choice.
-4. An algorithm was used to provide a song list (from Youtube music API) that connects the depression type and the music genre of choice.
-2. Has a link to a site for more information.
+## 📍 App Features
+1. Has a section to fill form to collect data of the user.
+2. Machine learning predicts whether or not the user clicks an advert.
 3. Web app compatible by every device. <br><br><br>
 
 
@@ -56,21 +53,20 @@ The dataset was in a tabular (CSV) format and was gotten from a research studies
 
 #### This app is deployed at [Render](https://render.com/)
 	
-#### You can access it [Here](https://sami.onrender.com/) <br><br><br>
+#### You can access it [Here](https://adclick.onrender.com/) <br><br><br>
 
 
 ## 📍 Limitations
 1. The dataset used was not large enough and can't be said to have generalized well despite the high metric values.
-2. The app starts slowly due to the free cloud service used (Render) 
-3. Some musics are gyet to be added  and app might not contain all genres of musics yet. <br><br><br>
+2. The app starts slowly due to the free cloud service used (Render). <br><br><br>
 
 ## 📍 To improve
 1. I would love to improve the dataset in size and quality.
-2. I would love to add more musucs and do more research to link the other genres of music.
+2. I would love to add an NLP algorithm that considers the name or topic of the advert while doing the prediction.
 <br><br><br>
 
 ## 📍 Open to collaboration
-You can  create a pull request wit detailed explanation if you wiould love to work more on this, or contact me through:
+You can  create a pull request wit detailed explanation if you would love to work more on this, or contact me through:
 <p align="center">
 	<a href="https://github.com/Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ajibade-abdulquddus-ab5237159/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
