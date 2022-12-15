@@ -28,12 +28,12 @@ The dataset was in a tabular (CSV) format and was gotten from a research studies
 
 
 
-## 📍 VIDEO DEMO
+## 📍 DEMO VIDEO
 
-#### [Sami.com](https://sami.onrender.com)
+#### [Adclick](https://adclick.onrender.com)
 | | 
 |:-|
-| <img alt="Sami" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/Sami.gif">|
+| <img alt="Sami" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/AdClick.gif">|
 
 <br><br><br>
 
